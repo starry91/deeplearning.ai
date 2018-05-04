@@ -31,6 +31,7 @@ Read AI article on my [blog](https://judasdie.github.io/)
 - [How to build Github Pages with jeklly](https://judasdie.github.io/2018/04/use-jeklly-build-githubpages/)
 - [Three ways for face detection](https://judasdie.github.io/2018/04/three-ways-for-face-detection/)
 - [Real Time Film-Lead Face Identify](https://judasdie.github.io/2018/04/real-time-film-lead-face-identify/)
+- CNN: 1) https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
 
 ------
 
